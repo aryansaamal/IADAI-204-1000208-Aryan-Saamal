@@ -1,8 +1,4 @@
 ## 📊 IPL Cricket Analysis – Match-Winning Factors (Tableau Dashboard)
-
-**Tableau Public Link:**
-[https://public.tableau.com/views/IPLCricketAnalysis_17710909342860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/IPLCricketAnalysis_17710909342860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ---
 
 ### 📌 Project Overview
