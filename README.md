@@ -56,8 +56,10 @@ This project presents an interactive Tableau dashboard analysing Indian Premier 
 
 ---
 
-### Dashboard Link
+### Dashboard & Dataset Links
 https://public.tableau.com/views/IPLCricketAnalysis_17710909342860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+https://drive.google.com/drive/folders/1o4IsYwxlucOXJ8tVa-HXQqes69tr-EMu?usp=sharing
 
 
 ---
